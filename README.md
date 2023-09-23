@@ -15,6 +15,9 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="60" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
 </p>
+<h3 align="left">GitLab Contributions:</h3>
+<p align="center">
+  <img src="contributions.png"/>
+</p>
 
-  
   
