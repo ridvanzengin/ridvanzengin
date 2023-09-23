@@ -11,7 +11,7 @@
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_kafka-ar21.svg" width="60" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="60" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="60" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
 </p>
