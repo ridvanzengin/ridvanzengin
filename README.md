@@ -1,26 +1,39 @@
+<h3 align="left">Languages and Tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="70" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="100" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="80" height="40"/>
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="80" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="80" height="40"/>
-  
-</p>
-
-
+<table>
+  <tbody><tr>
+    <td align="center" width="96"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></div>Python</div></td>
+    <td align="center" width="96"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></div>Go</div></td>
+    <td align="center" width="96"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></div>Postgres</div></td>
+    <td align="center" width="96"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></div>MySQL</div></td>
+    <td align="center" width="96"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></div>MongoDB</div></td>
+  </tr>
+  <tr>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></div>PyTorch</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></div>Pandas</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></div>FastAPI</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></div>Flask</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></div>Docker</div></td>
+  </tr>
+  <tr>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"></div>Kafka</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"></div>RabbitMQ</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></div>Redis</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg"></div>Cassandra</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></div>Linux</div></td>
+  </tr>
+  <tr>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></div>Git</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"></div>GitLab</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></div>AWS</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg"></div>Grafana</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/influxdb.svg"></div>InfluxDB</div></td>
+  </tr>
+  <tr>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mqtt.svg"></div>MQTT</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg"></div>Spark</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/influxdb.svg"></div>Telegraf</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg"></div>Celery</div></td>
+    <td align="center"><div class="icon-wrap"><div class="icon-bg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg"></div>MLflow</div></td>
+  </tr>
+</tbody></table>
