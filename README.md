@@ -23,8 +23,4 @@
   
 </p>
 
-<h3 align="left">GitLab Contributions:</h3>
-<p align="center">
-  <img src="contribution.png"/>
-</p>
 
